@@ -1,1 +1,1 @@
-# cleaning-us-census-data
+In this project, I inspected census data using Pandas (loaded dataset, changed format, created new columns based on existing ones, dropped duplicates, etc.). I made a few visualisations using Matplotlib (scatterplot to show average income in a state vs. the proportion of women in that state and histograms to see what the race categories are).
